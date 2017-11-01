@@ -13,11 +13,11 @@ extremely simple Pomodoro Timer in Linux command line
     chmod +x pomobash.sh
 
 # usage: 
- - to run in command line:
+- to run in command line:
  
   ./pomobash.sh
 
-to escape:
+- to escape:
 
   Press Ctrl-C
   

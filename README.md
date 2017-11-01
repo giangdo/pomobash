@@ -1,7 +1,9 @@
 # pomobash
-extremely simple Pomodoro Timer in Linux command line
+- Extremely simple Pomodoro Timer in Linux command line
 
-# requirement: 
+- Written in bash, don't need to compile!!! 
+
+# requirement:
 - install termdown and espeak
 
     sudo apt install python-pip; sudo pip install termdown; sudo apt install espeak;
